@@ -13,6 +13,6 @@ The end product should look a little like this:
 Built the main interface using a card interface, a search bar and a few basic weather details using HTML and CSS. So far this app is static (See gif) - Waiting on API key from Open weather to get validated. 
 
 ### App Walk-though - commit 1
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/amishfakun/weatherApp/blob/main/weatherApp1.gif" width=250><br>
 
 
