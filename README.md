@@ -19,3 +19,6 @@ Using the API, the user can search specific cities and get the weather from it. 
 <img src="https://github.com/amishfakun/weatherApp/blob/main/weatherApp1.gif" width=250><br>
 
 
+### App Walk-though - Update 2
+<img src="https://github.com/amishfakun/weatherApp/blob/main/update2.gif" width=250><br>
+
