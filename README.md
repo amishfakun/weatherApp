@@ -1,7 +1,14 @@
 ## Weather App
 
+##Live Website
+https://amishfakun.github.io/weatherApp/
+
 ## App Description
-I am building a weather app as a personal side project to gain more experience using HTML, CSS and Javascript. The main learning goal for this is to gain familiarity with using APIs. 
+I am building a weather app as a personal side project to gain more experience using HTML, CSS and Javascript. The main learning goal for this is to gain familiarity with using APIs. I have completed this using a tutorial online since it is my first time using APIs.
+
+Credit: Johnah Lawrence on YouTube
+Link:  https://www.youtube.com/watch?v=WZNG8UomjSI&ab_channel=JonahLawrence%E2%80%A2DevProTips
+
 
 The end product should look a little like this:
 
